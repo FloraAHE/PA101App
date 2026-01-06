@@ -1,0 +1,14 @@
+C:\Users\Windows\Desktop\C#MyApp\PA101App\PA101App\bin\Debug\net8.0\PA101App.exe
+C:\Users\Windows\Desktop\C#MyApp\PA101App\PA101App\bin\Debug\net8.0\PA101App.deps.json
+C:\Users\Windows\Desktop\C#MyApp\PA101App\PA101App\bin\Debug\net8.0\PA101App.runtimeconfig.json
+C:\Users\Windows\Desktop\C#MyApp\PA101App\PA101App\bin\Debug\net8.0\PA101App.dll
+C:\Users\Windows\Desktop\C#MyApp\PA101App\PA101App\bin\Debug\net8.0\PA101App.pdb
+C:\Users\Windows\Desktop\C#MyApp\PA101App\PA101App\obj\Debug\net8.0\PA101App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\C#MyApp\PA101App\PA101App\obj\Debug\net8.0\PA101App.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\C#MyApp\PA101App\PA101App\obj\Debug\net8.0\PA101App.AssemblyInfo.cs
+C:\Users\Windows\Desktop\C#MyApp\PA101App\PA101App\obj\Debug\net8.0\PA101App.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\C#MyApp\PA101App\PA101App\obj\Debug\net8.0\PA101App.dll
+C:\Users\Windows\Desktop\C#MyApp\PA101App\PA101App\obj\Debug\net8.0\refint\PA101App.dll
+C:\Users\Windows\Desktop\C#MyApp\PA101App\PA101App\obj\Debug\net8.0\PA101App.pdb
+C:\Users\Windows\Desktop\C#MyApp\PA101App\PA101App\obj\Debug\net8.0\PA101App.genruntimeconfig.cache
+C:\Users\Windows\Desktop\C#MyApp\PA101App\PA101App\obj\Debug\net8.0\ref\PA101App.dll
